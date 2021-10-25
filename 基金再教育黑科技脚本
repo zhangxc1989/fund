@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         基金从业再教育2.0
-// @namespace    
+// @namespace    https://github.com/zhangxc1989/fund/blob/main/%E5%9F%BA%E9%87%91%E5%86%8D%E6%95%99%E8%82%B2%E9%BB%91%E7%A7%91%E6%8A%80%E8%84%9A%E6%9C%AC
 // @version      0.4
 // @description  真是个惊喜!
 // @match        https://peixun.amac.org.cn/*
